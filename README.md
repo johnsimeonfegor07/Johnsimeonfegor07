@@ -28,6 +28,33 @@ I’m passionate about turning raw data into meaningful stories that drive decis
 
 ---
 
+## 🔧 Skills & Tools
+
+**Data Analysis & Visualization**  
+- Microsoft Excel (Pivot Tables, VLOOKUP, INDEX-MATCH, Power Query, Charts)  
+- Power BI (DAX, Data Modelling, Interactive Dashboards)  
+- Tableau (Calculated Fields, Storytelling, Published Dashboards)  
+
+**Databases & Querying**  
+- SQL (Joins, Subqueries, Window Functions, CTEs, Aggregations)  
+- MySQL / PostgreSQL  
+
+**Data Cleaning & Transformation**  
+- Excel Power Query  
+- Power BI Query Editor  
+- SQL Scripts  
+
+**Reporting & Dashboarding**  
+- Power BI Service (sharing & publishing reports)  
+- Tableau Public  
+- Excel Dashboards (KPI tracking, financial models)  
+
+**Other Tools**  
+- Git & GitHub (version control, project sharing)  
+- Google Sheets (collaborative analysis)  
+- Microsoft Office Suite (Word, PowerPoint for presentations)  
+
+
 ## 🗂️ My Works
 Here are some of my recent projects:  
 
