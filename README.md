@@ -1,4 +1,4 @@
-# I'm [John Simeon Oghenefegor]
+# I'm John Simeon Oghenefegor
 
 🎯 **Aspiring Data Analyst | 1 Year Experience in Data-Driven Insights**  
 I’m passionate about turning raw data into meaningful stories that drive decisions. With strong analytical skills and hands-on experience in business intelligence tools, I enjoy uncovering patterns, trends, and solutions hidden in data.
