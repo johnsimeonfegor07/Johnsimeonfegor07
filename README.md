@@ -69,7 +69,7 @@ Here are some of my recent projects:
 ## 📫 Let's connect:
 - 📧 Email: johnsimeonfegor@homail.com
 - 💼 LinkedIn: (www.linkedin.com/in/john-simeon-a2998a115)
-- 🌐 Portfolio Website: [yourwebsite.com] (if available)
+- 🌐 Portfolio Website: [] ()
 
 ---
 
